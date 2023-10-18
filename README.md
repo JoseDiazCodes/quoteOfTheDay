@@ -4,7 +4,7 @@ This is a simple web application that displays a random quote of the day. It use
 
 ## Preview
 
-![Quote of the Day Preview](//QOTD.gif)
+![Quote of the Day Preview](QOTD.gif)
 
 ## Features
 
