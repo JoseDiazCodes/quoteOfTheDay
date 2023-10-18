@@ -30,9 +30,9 @@ h1 {
 
 #quoteText {
 	font-size: 18px;
-	overflow: visible; /* Allow the text to expand the box */
-	white-space: normal; /* Allow text to wrap */
-	max-width: 100%; /* Limit the text width to the container width */
+	overflow: visible;
+	white-space: normal;
+	max-width: 100%;
 }
 
 #author {
