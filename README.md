@@ -31,7 +31,7 @@ To run this application locally for development purposes, you can simply open th
 
 ## Author
 
-[Your Name]
+Jose Diaz
 
 ## License
 
